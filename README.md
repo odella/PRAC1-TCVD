@@ -18,6 +18,6 @@ Actualment exteu els següents punts d'informació de cada producte:
 
 - Nom
 - ID
-- preu
+- Preu
 - Ofertes o promocions
 - Dia
