@@ -14,7 +14,7 @@ No cal incloure cap parametre, el programa descarrega automaticament les dades i
 
 ofertesCaprabo_<dia>.csv
   
-Actualment exteu els següents punts d'informació de les dades:
+Actualment exteu els següents punts d'informació de cada producte:
 
 - Nom
 - ID
