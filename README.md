@@ -12,7 +12,7 @@ datetime
 
 No cal incloure cap parametre, el programa descarrega automaticament les dades i les enmagatzema en un arxiu amb el seguent nom:
 
-ofertesCaprabo_<dia>.csv
+ofertesCaprabo_dia.csv
   
 Actualment exteu els següents punts d'informació de cada producte:
 
